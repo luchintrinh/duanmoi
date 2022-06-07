@@ -96,3 +96,4 @@ select * from v_tonghop2
  --toi da di khoi day :D
  --Khan da den day
  --Thao da den day
+ --ban update cuoi cung Trinh
