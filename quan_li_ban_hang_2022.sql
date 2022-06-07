@@ -94,3 +94,4 @@ select * from v_tonghop2
  select * from v_tonghop1
  select COUNT(maHH) as soluong from V_tonghop where maHH='H2'
  --toi dang o day :
+ --Khan da den day
