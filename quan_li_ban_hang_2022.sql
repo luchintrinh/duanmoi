@@ -93,5 +93,5 @@ where HD.soHD=CT_HD.soHD and HD.maKH=KH.maKH and hinhthuc=0
 select * from v_tonghop2
  select * from v_tonghop1
  select COUNT(maHH) as soluong from V_tonghop where maHH='H2'
- --toi dang o day :
+ --toi da di khoi day :D
  --Khan da den day
